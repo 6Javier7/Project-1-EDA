@@ -1,2 +1,2 @@
 # Project-1-EDA
-Some Explorratory data analisys :)
+Some Exploratory data analisys :)
